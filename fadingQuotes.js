@@ -85,4 +85,4 @@ function FadeIn() {
 
 
 //call it all to activate it.
-fadeOut();
+window.onload=fadeOut();
